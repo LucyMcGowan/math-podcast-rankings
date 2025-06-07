@@ -13,6 +13,6 @@ data <- data.frame(
   date = Sys.time()
 )
 
-current_rankings <- rbind(current_rankings, data)
+current_rankings <- rbind(data, current_rankings)
 
 write.csv(current_rankings, "podcast_rankings.csv", row.names = FALSE)
