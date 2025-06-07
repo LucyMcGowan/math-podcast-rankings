@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4  # Updated version
+      uses: actions/checkout@v4 
       
     - name: Set up R
       uses: r-lib/actions/setup-r@v2
@@ -19,7 +19,7 @@ jobs:
       uses: actions/cache@v3
       with:
         path: ${{ env.R_LIBS_USER }}
-        key: ${{ runner.os }}-r-packages-${{ hashFiles('script.R') }}
+        key: ${{ runner.os }}-r-packages-v1
         restore-keys: |
           ${{ runner.os }}-r-packages-
           
