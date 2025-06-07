@@ -1,5 +1,6 @@
 library(rvest)
 
+current_rankings <- read.csv("podcast_rankings.csv")
 
 url <- "https://podcasts.apple.com/us/genre/1536"
 page <- read_html(url)
@@ -12,4 +13,6 @@ data <- data.frame(
   date = Sys.time()
 )
 
-write.csv(data, "podcast_rankings.csv", row.names = FALSE)
+current_rankings <- rbind(current_rankings, data)
+
+write.csv(current_rankings, "podcast_rankings.csv", row.names = FALSE)
