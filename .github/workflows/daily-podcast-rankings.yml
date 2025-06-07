@@ -1,0 +1,42 @@
+name: Daily Podcast Rankings Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Every day at 02:00 UTC
+  workflow_dispatch:     # Allow manual trigger
+
+jobs:
+  update-podcasts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up R
+      uses: r-lib/actions/setup-r@v2
+
+    - name: Install R packages
+      run: |
+        R -e "install.packages(c('rvest','readr','knitr'), repos='https://cran.r-project.org')"
+
+    - name: Install Quarto CLI
+      run: |
+        wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.415/quarto-1.3.415-linux-amd64.deb
+        sudo dpkg -i quarto-1.3.415-linux-amd64.deb
+
+    - name: Run scraper script
+      run: Rscript script.R
+
+    - name: Render README.qmd to README.md
+      run: quarto render README.qmd --to gfm --output README.md
+
+    - name: Commit and push updates
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add podcast_rankings.csv README.md
+        git diff --cached --quiet || git commit -m "Daily update: podcast rankings and README $(date +'%Y-%m-%d')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

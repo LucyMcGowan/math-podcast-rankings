@@ -1,0 +1,11 @@
+---
+title: "Current Mathematics Podcast Rankings"
+format: gfm
+---
+
+
+```{r}
+podcasts <- read.csv("podcast_rankings.csv")
+knitr::kable(head(podcasts, 10))
+```
+
