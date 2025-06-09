@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast | date |
 |---:|:---|:---|
-| 1 | More or Less: Behind the Stats | 2025-06-08 03:29:06.316011 |
-| 2 | Casual Inference | 2025-06-08 03:29:06.316011 |
-| 3 | Opinionated History of Mathematics | 2025-06-08 03:29:06.316011 |
-| 4 | The Art of Mathematics | 2025-06-08 03:29:06.316011 |
-| 5 | My Favorite Theorem | 2025-06-08 03:29:06.316011 |
-| 6 | Breaking Math Podcast | 2025-06-08 03:29:06.316011 |
-| 7 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2025-06-08 03:29:06.316011 |
-| 8 | The Universe Speaks in Numbers | 2025-06-08 03:29:06.316011 |
-| 9 | Data Science Decoded | 2025-06-08 03:29:06.316011 |
-| 10 | Carry the Two | 2025-06-08 03:29:06.316011 |
+| 1 | More or Less: Behind the Stats | 2025-06-09 03:27:48.497917 |
+| 2 | Casual Inference | 2025-06-09 03:27:48.497917 |
+| 3 | Opinionated History of Mathematics | 2025-06-09 03:27:48.497917 |
+| 4 | The Art of Mathematics | 2025-06-09 03:27:48.497917 |
+| 5 | My Favorite Theorem | 2025-06-09 03:27:48.497917 |
+| 6 | Breaking Math Podcast | 2025-06-09 03:27:48.497917 |
+| 7 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2025-06-09 03:27:48.497917 |
+| 8 | The Universe Speaks in Numbers | 2025-06-09 03:27:48.497917 |
+| 9 | Data Science Decoded | 2025-06-09 03:27:48.497917 |
+| 10 | Carry the Two | 2025-06-09 03:27:48.497917 |
