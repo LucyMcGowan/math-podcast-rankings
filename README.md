@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast | date |
 |---:|:---|:---|
-| 1 | More or Less: Behind the Stats | 2025-06-14 03:18:12.019928 |
-| 2 | Casual Inference | 2025-06-14 03:18:12.019928 |
-| 3 | Opinionated History of Mathematics | 2025-06-14 03:18:12.019928 |
-| 4 | The Art of Mathematics | 2025-06-14 03:18:12.019928 |
-| 5 | My Favorite Theorem | 2025-06-14 03:18:12.019928 |
-| 6 | Breaking Math Podcast | 2025-06-14 03:18:12.019928 |
-| 7 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2025-06-14 03:18:12.019928 |
-| 8 | The Universe Speaks in Numbers | 2025-06-14 03:18:12.019928 |
-| 9 | Data Science Decoded | 2025-06-14 03:18:12.019928 |
-| 10 | Carry the Two | 2025-06-14 03:18:12.019928 |
+| 1 | More or Less: Behind the Stats | 2025-06-15 03:28:50.916231 |
+| 2 | Casual Inference | 2025-06-15 03:28:50.916231 |
+| 3 | The Art of Mathematics | 2025-06-15 03:28:50.916231 |
+| 4 | Opinionated History of Mathematics | 2025-06-15 03:28:50.916231 |
+| 5 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2025-06-15 03:28:50.916231 |
+| 6 | My Favorite Theorem | 2025-06-15 03:28:50.916231 |
+| 7 | Breaking Math Podcast | 2025-06-15 03:28:50.916231 |
+| 8 | Data Science Decoded | 2025-06-15 03:28:50.916231 |
+| 9 | The Structural Engineering Podcast | 2025-06-15 03:28:50.916231 |
+| 10 | Deep Papers | 2025-06-15 03:28:50.916231 |
