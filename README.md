@@ -6,15 +6,15 @@ podcasts <- read.csv("podcast_rankings.csv")
 knitr::kable(head(podcasts, 10))
 ```
 
-| rank | podcast                            | date                      |
-|-----:|:-----------------------------------|:--------------------------|
-|    1 | More or Less: Behind the Stats     | 2025-08-05 03:52:45.40831 |
-|    2 | Breaking Math Podcast              | 2025-08-05 03:52:45.40831 |
-|    3 | Casual Inference                   | 2025-08-05 03:52:45.40831 |
-|    4 | Opinionated History of Mathematics | 2025-08-05 03:52:45.40831 |
-|    5 | The Art of Mathematics             | 2025-08-05 03:52:45.40831 |
-|    6 | My Favorite Theorem                | 2025-08-05 03:52:45.40831 |
-|    7 | The Universe Speaks in Numbers     | 2025-08-05 03:52:45.40831 |
-|    8 | Data Science Decoded               | 2025-08-05 03:52:45.40831 |
-|    9 | Mathematics Simplified             | 2025-08-05 03:52:45.40831 |
-|   10 | The Structural Engineering Podcast | 2025-08-05 03:52:45.40831 |
+| rank | podcast                            | date                       |
+|-----:|:-----------------------------------|:---------------------------|
+|    1 | More or Less: Behind the Stats     | 2025-08-06 03:51:57.581418 |
+|    2 | Breaking Math Podcast              | 2025-08-06 03:51:57.581418 |
+|    3 | Casual Inference                   | 2025-08-06 03:51:57.581418 |
+|    4 | Opinionated History of Mathematics | 2025-08-06 03:51:57.581418 |
+|    5 | The Art of Mathematics             | 2025-08-06 03:51:57.581418 |
+|    6 | My Favorite Theorem                | 2025-08-06 03:51:57.581418 |
+|    7 | The Universe Speaks in Numbers     | 2025-08-06 03:51:57.581418 |
+|    8 | Data Science Decoded               | 2025-08-06 03:51:57.581418 |
+|    9 | Mathematics Simplified             | 2025-08-06 03:51:57.581418 |
+|   10 | The Structural Engineering Podcast | 2025-08-06 03:51:57.581418 |
