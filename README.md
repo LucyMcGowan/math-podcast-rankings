@@ -6,15 +6,15 @@ podcasts <- read.csv("podcast_rankings.csv")
 knitr::kable(head(podcasts, 10))
 ```
 
-| rank | podcast                            | date                       |
-|-----:|:-----------------------------------|:---------------------------|
-|    1 | More or Less: Behind the Stats     | 2025-08-21 03:18:51.693649 |
-|    2 | Breaking Math Podcast              | 2025-08-21 03:18:51.693649 |
-|    3 | Casual Inference                   | 2025-08-21 03:18:51.693649 |
-|    4 | Opinionated History of Mathematics | 2025-08-21 03:18:51.693649 |
-|    5 | The Art of Mathematics             | 2025-08-21 03:18:51.693649 |
-|    6 | My Favorite Theorem                | 2025-08-21 03:18:51.693649 |
-|    7 | The Universe Speaks in Numbers     | 2025-08-21 03:18:51.693649 |
-|    8 | Data Science Decoded               | 2025-08-21 03:18:51.693649 |
-|    9 | Mathematics Simplified             | 2025-08-21 03:18:51.693649 |
-|   10 | The Structural Engineering Podcast | 2025-08-21 03:18:51.693649 |
+| rank | podcast | date |
+|---:|:---|:---|
+| 1 | More or Less: Behind the Stats | 2025-08-22 03:14:00.397601 |
+| 2 | Breaking Math Podcast | 2025-08-22 03:14:00.397601 |
+| 3 | Opinionated History of Mathematics | 2025-08-22 03:14:00.397601 |
+| 4 | Casual Inference | 2025-08-22 03:14:00.397601 |
+| 5 | My Favorite Theorem | 2025-08-22 03:14:00.397601 |
+| 6 | The Art of Mathematics | 2025-08-22 03:14:00.397601 |
+| 7 | Carry the Two | 2025-08-22 03:14:00.397601 |
+| 8 | The Universe Speaks in Numbers | 2025-08-22 03:14:00.397601 |
+| 9 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2025-08-22 03:14:00.397601 |
+| 10 | Deep Papers | 2025-08-22 03:14:00.397601 |
