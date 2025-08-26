@@ -6,15 +6,15 @@ podcasts <- read.csv("podcast_rankings.csv")
 knitr::kable(head(podcasts, 10))
 ```
 
-| rank | podcast | date |
-|---:|:---|:---|
-| 1 | More or Less: Behind the Stats | 2025-08-25 03:22:53.369971 |
-| 2 | Breaking Math Podcast | 2025-08-25 03:22:53.369971 |
-| 3 | Opinionated History of Mathematics | 2025-08-25 03:22:53.369971 |
-| 4 | Casual Inference | 2025-08-25 03:22:53.369971 |
-| 5 | My Favorite Theorem | 2025-08-25 03:22:53.369971 |
-| 6 | The Art of Mathematics | 2025-08-25 03:22:53.369971 |
-| 7 | Carry the Two | 2025-08-25 03:22:53.369971 |
-| 8 | The Universe Speaks in Numbers | 2025-08-25 03:22:53.369971 |
-| 9 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2025-08-25 03:22:53.369971 |
-| 10 | Deep Papers | 2025-08-25 03:22:53.369971 |
+| rank | podcast                            | date                       |
+|-----:|:-----------------------------------|:---------------------------|
+|    1 | More or Less: Behind the Stats     | 2025-08-26 03:16:28.468919 |
+|    2 | Brother, Mine - An Audio Drama     | 2025-08-26 03:16:28.468919 |
+|    3 | Casual Inference                   | 2025-08-26 03:16:28.468919 |
+|    4 | Opinionated History of Mathematics | 2025-08-26 03:16:28.468919 |
+|    5 | The Universe Speaks in Numbers     | 2025-08-26 03:16:28.468919 |
+|    6 | The Art of Mathematics             | 2025-08-26 03:16:28.468919 |
+|    7 | My Favorite Theorem                | 2025-08-26 03:16:28.468919 |
+|    8 | The Structural Engineering Podcast | 2025-08-26 03:16:28.468919 |
+|    9 | Deep Papers                        | 2025-08-26 03:16:28.468919 |
+|   10 | Carry the Two                      | 2025-08-26 03:16:28.468919 |
