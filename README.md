@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast                             | date                       |
 |-----:|:------------------------------------|:---------------------------|
-|    1 | More or Less: Behind the Stats      | 2025-10-21 03:17:44.019007 |
-|    2 | Opinionated History of Mathematics  | 2025-10-21 03:17:44.019007 |
-|    3 | The Art of Mathematics              | 2025-10-21 03:17:44.019007 |
-|    4 | Breaking Math Podcast               | 2025-10-21 03:17:44.019007 |
-|    5 | My Favorite Theorem                 | 2025-10-21 03:17:44.019007 |
-|    6 | Data Science Decoded                | 2025-10-21 03:17:44.019007 |
-|    7 | Casual Inference                    | 2025-10-21 03:17:44.019007 |
-|    8 | SOA Podcasts - Society of Actuaries | 2025-10-21 03:17:44.019007 |
-|    9 | The Universe Speaks in Numbers      | 2025-10-21 03:17:44.019007 |
-|   10 | The Structural Engineering Podcast  | 2025-10-21 03:17:44.019007 |
+|    1 | More or Less: Behind the Stats      | 2025-10-22 03:22:56.296514 |
+|    2 | Opinionated History of Mathematics  | 2025-10-22 03:22:56.296514 |
+|    3 | The Art of Mathematics              | 2025-10-22 03:22:56.296514 |
+|    4 | Breaking Math Podcast               | 2025-10-22 03:22:56.296514 |
+|    5 | My Favorite Theorem                 | 2025-10-22 03:22:56.296514 |
+|    6 | Data Science Decoded                | 2025-10-22 03:22:56.296514 |
+|    7 | Casual Inference                    | 2025-10-22 03:22:56.296514 |
+|    8 | SOA Podcasts - Society of Actuaries | 2025-10-22 03:22:56.296514 |
+|    9 | The Universe Speaks in Numbers      | 2025-10-22 03:22:56.296514 |
+|   10 | The Structural Engineering Podcast  | 2025-10-22 03:22:56.296514 |
