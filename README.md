@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast                             | date                       |
 |-----:|:------------------------------------|:---------------------------|
-|    1 | More or Less                        | 2025-11-30 03:42:03.043362 |
-|    2 | Opinionated History of Mathematics  | 2025-11-30 03:42:03.043362 |
-|    3 | Breaking Math Podcast               | 2025-11-30 03:42:03.043362 |
-|    4 | My Favorite Theorem                 | 2025-11-30 03:42:03.043362 |
-|    5 | Data Science Decoded                | 2025-11-30 03:42:03.043362 |
-|    6 | Casual Inference                    | 2025-11-30 03:42:03.043362 |
-|    7 | SOA Podcasts - Society of Actuaries | 2025-11-30 03:42:03.043362 |
-|    8 | The Art of Mathematics              | 2025-11-30 03:42:03.043362 |
-|    9 | The Structural Engineering Podcast  | 2025-11-30 03:42:03.043362 |
-|   10 | Math! Science! History!             | 2025-11-30 03:42:03.043362 |
+|    1 | More or Less                        | 2025-12-01 04:03:04.338161 |
+|    2 | Opinionated History of Mathematics  | 2025-12-01 04:03:04.338161 |
+|    3 | Breaking Math Podcast               | 2025-12-01 04:03:04.338161 |
+|    4 | My Favorite Theorem                 | 2025-12-01 04:03:04.338161 |
+|    5 | Data Science Decoded                | 2025-12-01 04:03:04.338161 |
+|    6 | Casual Inference                    | 2025-12-01 04:03:04.338161 |
+|    7 | SOA Podcasts - Society of Actuaries | 2025-12-01 04:03:04.338161 |
+|    8 | The Art of Mathematics              | 2025-12-01 04:03:04.338161 |
+|    9 | The Structural Engineering Podcast  | 2025-12-01 04:03:04.338161 |
+|   10 | Math! Science! History!             | 2025-12-01 04:03:04.338161 |
