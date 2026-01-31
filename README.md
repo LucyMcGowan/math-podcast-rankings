@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast                             | date                       |
 |-----:|:------------------------------------|:---------------------------|
-|    1 | More or Less                        | 2026-01-30 04:18:49.782019 |
-|    2 | The Cartesian Cafe                  | 2026-01-30 04:18:49.782019 |
-|    3 | Opinionated History of Mathematics  | 2026-01-30 04:18:49.782019 |
-|    4 | Breaking Math Podcast               | 2026-01-30 04:18:49.782019 |
-|    5 | Casual Inference                    | 2026-01-30 04:18:49.782019 |
-|    6 | The Art of Mathematics              | 2026-01-30 04:18:49.782019 |
-|    7 | My Favorite Theorem                 | 2026-01-30 04:18:49.782019 |
-|    8 | Data Science Decoded                | 2026-01-30 04:18:49.782019 |
-|    9 | SOA Podcasts - Society of Actuaries | 2026-01-30 04:18:49.782019 |
-|   10 | In the Interim…                     | 2026-01-30 04:18:49.782019 |
+|    1 | More or Less                        | 2026-01-31 04:11:34.573858 |
+|    2 | The Cartesian Cafe                  | 2026-01-31 04:11:34.573858 |
+|    3 | Opinionated History of Mathematics  | 2026-01-31 04:11:34.573858 |
+|    4 | Breaking Math Podcast               | 2026-01-31 04:11:34.573858 |
+|    5 | Casual Inference                    | 2026-01-31 04:11:34.573858 |
+|    6 | The Art of Mathematics              | 2026-01-31 04:11:34.573858 |
+|    7 | My Favorite Theorem                 | 2026-01-31 04:11:34.573858 |
+|    8 | Data Science Decoded                | 2026-01-31 04:11:34.573858 |
+|    9 | SOA Podcasts - Society of Actuaries | 2026-01-31 04:11:34.573858 |
+|   10 | In the Interim…                     | 2026-01-31 04:11:34.573858 |
