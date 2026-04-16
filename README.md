@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast | date |
 |---:|:---|:---|
-| 1 | More or Less | 2026-04-15 04:55:14.125515 |
-| 2 | Explicit, Rebel Economics with Dr. Steve Keen | 2026-04-15 04:55:14.125515 |
-| 3 | The Art of Mathematics | 2026-04-15 04:55:14.125515 |
-| 4 | Opinionated History of Mathematics | 2026-04-15 04:55:14.125515 |
-| 5 | Breaking Math Podcast | 2026-04-15 04:55:14.125515 |
-| 6 | Casual Inference | 2026-04-15 04:55:14.125515 |
-| 7 | Mathematics Simplified | 2026-04-15 04:55:14.125515 |
-| 8 | My Favorite Theorem | 2026-04-15 04:55:14.125515 |
-| 9 | The Cartesian Cafe | 2026-04-15 04:55:14.125515 |
-| 10 | Data Science Decoded | 2026-04-15 04:55:14.125515 |
+| 1 | More or Less | 2026-04-16 05:02:10.788247 |
+| 2 | Explicit, Rebel Economics with Dr. Steve Keen | 2026-04-16 05:02:10.788247 |
+| 3 | The Art of Mathematics | 2026-04-16 05:02:10.788247 |
+| 4 | Opinionated History of Mathematics | 2026-04-16 05:02:10.788247 |
+| 5 | Breaking Math Podcast | 2026-04-16 05:02:10.788247 |
+| 6 | Casual Inference | 2026-04-16 05:02:10.788247 |
+| 7 | Mathematics Simplified | 2026-04-16 05:02:10.788247 |
+| 8 | My Favorite Theorem | 2026-04-16 05:02:10.788247 |
+| 9 | The Cartesian Cafe | 2026-04-16 05:02:10.788247 |
+| 10 | Data Science Decoded | 2026-04-16 05:02:10.788247 |
