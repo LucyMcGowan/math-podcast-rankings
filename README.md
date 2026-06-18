@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast | date |
 |---:|:---|:---|
-| 1 | More or Less | 2026-06-17 07:22:40.677081 |
-| 2 | Breaking Math Podcast | 2026-06-17 07:22:40.677081 |
-| 3 | Opinionated History of Mathematics | 2026-06-17 07:22:40.677081 |
-| 4 | The Art of Mathematics | 2026-06-17 07:22:40.677081 |
-| 5 | Math Deep Dive | 2026-06-17 07:22:40.677081 |
-| 6 | Explicit, Rebel Economics with Professor Steve Keen | 2026-06-17 07:22:40.677081 |
-| 7 | Casual Inference | 2026-06-17 07:22:40.677081 |
-| 8 | aboutlogic | 2026-06-17 07:22:40.677081 |
-| 9 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-06-17 07:22:40.677081 |
-| 10 | My Favorite Theorem | 2026-06-17 07:22:40.677081 |
+| 1 | More or Less | 2026-06-18 07:35:18.699593 |
+| 2 | Breaking Math Podcast | 2026-06-18 07:35:18.699593 |
+| 3 | Opinionated History of Mathematics | 2026-06-18 07:35:18.699593 |
+| 4 | The Art of Mathematics | 2026-06-18 07:35:18.699593 |
+| 5 | Math Deep Dive | 2026-06-18 07:35:18.699593 |
+| 6 | Explicit, Rebel Economics with Professor Steve Keen | 2026-06-18 07:35:18.699593 |
+| 7 | Casual Inference | 2026-06-18 07:35:18.699593 |
+| 8 | aboutlogic | 2026-06-18 07:35:18.699593 |
+| 9 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-06-18 07:35:18.699593 |
+| 10 | My Favorite Theorem | 2026-06-18 07:35:18.699593 |
