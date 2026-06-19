@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast | date |
 |---:|:---|:---|
-| 1 | More or Less | 2026-06-18 07:35:18.699593 |
-| 2 | Breaking Math Podcast | 2026-06-18 07:35:18.699593 |
-| 3 | Opinionated History of Mathematics | 2026-06-18 07:35:18.699593 |
-| 4 | The Art of Mathematics | 2026-06-18 07:35:18.699593 |
-| 5 | Math Deep Dive | 2026-06-18 07:35:18.699593 |
-| 6 | Explicit, Rebel Economics with Professor Steve Keen | 2026-06-18 07:35:18.699593 |
-| 7 | Casual Inference | 2026-06-18 07:35:18.699593 |
-| 8 | aboutlogic | 2026-06-18 07:35:18.699593 |
-| 9 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-06-18 07:35:18.699593 |
-| 10 | My Favorite Theorem | 2026-06-18 07:35:18.699593 |
+| 1 | More or Less | 2026-06-19 07:20:34.356608 |
+| 2 | Opinionated History of Mathematics | 2026-06-19 07:20:34.356608 |
+| 3 | The Art of Mathematics | 2026-06-19 07:20:34.356608 |
+| 4 | Math Deep Dive | 2026-06-19 07:20:34.356608 |
+| 5 | Breaking Math Podcast | 2026-06-19 07:20:34.356608 |
+| 6 | My Favorite Theorem | 2026-06-19 07:20:34.356608 |
+| 7 | aboutlogic | 2026-06-19 07:20:34.356608 |
+| 8 | Explicit, Rebel Economics with Professor Steve Keen | 2026-06-19 07:20:34.356608 |
+| 9 | Casual Inference | 2026-06-19 07:20:34.356608 |
+| 10 | In the Interim… | 2026-06-19 07:20:34.356608 |
