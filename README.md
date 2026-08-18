@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast | date |
 |---:|:---|:---|
-| 1 | Opinionated History of Mathematics | 2026-08-17 03:08:51.6013 |
-| 2 | Breaking Math Podcast | 2026-08-17 03:08:51.6013 |
-| 3 | Math Deep Dive | 2026-08-17 03:08:51.6013 |
-| 4 | The Art of Mathematics | 2026-08-17 03:08:51.6013 |
-| 5 | Casual Inference | 2026-08-17 03:08:51.6013 |
-| 6 | My Favorite Theorem | 2026-08-17 03:08:51.6013 |
-| 7 | aboutlogic | 2026-08-17 03:08:51.6013 |
-| 8 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-08-17 03:08:51.6013 |
-| 9 | Sum of All Parts | 2026-08-17 03:08:51.6013 |
-| 10 | Carry the Two | 2026-08-17 03:08:51.6013 |
+| 1 | Opinionated History of Mathematics | 2026-08-18 04:23:13.333214 |
+| 2 | Breaking Math Podcast | 2026-08-18 04:23:13.333214 |
+| 3 | Math Deep Dive | 2026-08-18 04:23:13.333214 |
+| 4 | The Art of Mathematics | 2026-08-18 04:23:13.333214 |
+| 5 | Casual Inference | 2026-08-18 04:23:13.333214 |
+| 6 | My Favorite Theorem | 2026-08-18 04:23:13.333214 |
+| 7 | aboutlogic | 2026-08-18 04:23:13.333214 |
+| 8 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-08-18 04:23:13.333214 |
+| 9 | Sum of All Parts | 2026-08-18 04:23:13.333214 |
+| 10 | Carry the Two | 2026-08-18 04:23:13.333214 |
