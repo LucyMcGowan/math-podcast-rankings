@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast | date |
 |---:|:---|:---|
-| 1 | Math Deep Dive | 2026-09-15 07:36:14.645316 |
-| 2 | Breaking Math Podcast | 2026-09-15 07:36:14.645316 |
-| 3 | Opinionated History of Mathematics | 2026-09-15 07:36:14.645316 |
-| 4 | Regression to the Mean Girls | 2026-09-15 07:36:14.645316 |
-| 5 | The Art of Mathematics | 2026-09-15 07:36:14.645316 |
-| 6 | Casual Inference | 2026-09-15 07:36:14.645316 |
-| 7 | Carry the Two | 2026-09-15 07:36:14.645316 |
-| 8 | Explicit, Rebel Economics with Professor Steve Keen | 2026-09-15 07:36:14.645316 |
-| 9 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-09-15 07:36:14.645316 |
-| 10 | SOA Podcasts - Society of Actuaries | 2026-09-15 07:36:14.645316 |
+| 1 | Math Deep Dive | 2026-09-16 07:35:02.418885 |
+| 2 | Opinionated History of Mathematics | 2026-09-16 07:35:02.418885 |
+| 3 | Breaking Math Podcast | 2026-09-16 07:35:02.418885 |
+| 4 | Regression to the Mean Girls | 2026-09-16 07:35:02.418885 |
+| 5 | Casual Inference | 2026-09-16 07:35:02.418885 |
+| 6 | The Art of Mathematics | 2026-09-16 07:35:02.418885 |
+| 7 | My Favorite Theorem | 2026-09-16 07:35:02.418885 |
+| 8 | Carry the Two | 2026-09-16 07:35:02.418885 |
+| 9 | aboutlogic | 2026-09-16 07:35:02.418885 |
+| 10 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-09-16 07:35:02.418885 |
