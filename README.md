@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast | date |
 |---:|:---|:---|
-| 1 | Math Deep Dive | 2026-10-04 08:19:25.572224 |
-| 2 | Opinionated History of Mathematics | 2026-10-04 08:19:25.572224 |
-| 3 | Breaking Math Podcast | 2026-10-04 08:19:25.572224 |
-| 4 | Regression to the Mean Girls | 2026-10-04 08:19:25.572224 |
-| 5 | Casual Inference | 2026-10-04 08:19:25.572224 |
-| 6 | The Art of Mathematics | 2026-10-04 08:19:25.572224 |
-| 7 | My Favorite Theorem | 2026-10-04 08:19:25.572224 |
-| 8 | Carry the Two | 2026-10-04 08:19:25.572224 |
-| 9 | aboutlogic | 2026-10-04 08:19:25.572224 |
-| 10 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-10-04 08:19:25.572224 |
+| 1 | Math Deep Dive | 2026-10-05 08:49:52.150851 |
+| 2 | Opinionated History of Mathematics | 2026-10-05 08:49:52.150851 |
+| 3 | Breaking Math Podcast | 2026-10-05 08:49:52.150851 |
+| 4 | Regression to the Mean Girls | 2026-10-05 08:49:52.150851 |
+| 5 | Casual Inference | 2026-10-05 08:49:52.150851 |
+| 6 | The Art of Mathematics | 2026-10-05 08:49:52.150851 |
+| 7 | My Favorite Theorem | 2026-10-05 08:49:52.150851 |
+| 8 | Carry the Two | 2026-10-05 08:49:52.150851 |
+| 9 | aboutlogic | 2026-10-05 08:49:52.150851 |
+| 10 | Making Number Sense Make Sense: A Math Podcast for Early Elementary Teachers | 2026-10-05 08:49:52.150851 |
