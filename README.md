@@ -6,15 +6,15 @@ podcasts <- read.csv("podcast_rankings.csv")
 knitr::kable(head(podcasts, 10))
 ```
 
-| rank | podcast | date |
-|---:|:---|:---|
-| 1 | Breaking Math Podcast | 2026-11-05 09:18:28.680635 |
-| 2 | Math Deep Dive | 2026-11-05 09:18:28.680635 |
-| 3 | aboutlogic | 2026-11-05 09:18:28.680635 |
-| 4 | My Favorite Theorem | 2026-11-05 09:18:28.680635 |
-| 5 | Practical Significance | 2026-11-05 09:18:28.680635 |
-| 6 | The Cartesian Cafe | 2026-11-05 09:18:28.680635 |
-| 7 | Maths on the Move | 2026-11-05 09:18:28.680635 |
-| 8 | Regression to the Mean Girls | 2026-11-05 09:18:28.680635 |
-| 9 | SOA Podcasts - Society of Actuaries | 2026-11-05 09:18:28.680635 |
-| 10 | Living Proof: the Isaac Newton Institute podcast | 2026-11-05 09:18:28.680635 |
+| rank | podcast                             | date                       |
+|-----:|:------------------------------------|:---------------------------|
+|    1 | Intersecting Us                     | 2026-11-06 09:12:12.968191 |
+|    2 | Deep Papers                         | 2026-11-06 09:12:12.968191 |
+|    3 | Breaking Math Podcast               | 2026-11-06 09:12:12.968191 |
+|    4 | The Art of Mathematics              | 2026-11-06 09:12:12.968191 |
+|    5 | Math Deep Dive                      | 2026-11-06 09:12:12.968191 |
+|    6 | Opinionated History of Mathematics  | 2026-11-06 09:12:12.968191 |
+|    7 | Casual Inference                    | 2026-11-06 09:12:12.968191 |
+|    8 | aboutlogic                          | 2026-11-06 09:12:12.968191 |
+|    9 | SOA Podcasts - Society of Actuaries | 2026-11-06 09:12:12.968191 |
+|   10 | In the Interim…                     | 2026-11-06 09:12:12.968191 |
