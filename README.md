@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast                                | date                       |
 |-----:|:---------------------------------------|:---------------------------|
-|    1 | Deep Papers                            | 2026-11-22 09:38:30.032352 |
-|    2 | Math Deep Dive                         | 2026-11-22 09:38:30.032352 |
-|    3 | SOA Podcasts - Society of Actuaries    | 2026-11-22 09:38:30.032352 |
-|    4 | Opinionated History of Mathematics     | 2026-11-22 09:38:30.032352 |
-|    5 | aboutlogic                             | 2026-11-22 09:38:30.032352 |
-|    6 | Million Dollar Problems of Mathematics | 2026-11-22 09:38:30.032352 |
-|    7 | The Art of Mathematics                 | 2026-11-22 09:38:30.032352 |
-|    8 | Casual Inference                       | 2026-11-22 09:38:30.032352 |
-|    9 | Breaking Math Podcast                  | 2026-11-22 09:38:30.032352 |
-|   10 | Carry the Two                          | 2026-11-22 09:38:30.032352 |
+|    1 | Math Deep Dive                         | 2026-11-23 10:36:06.327003 |
+|    2 | Deep Papers                            | 2026-11-23 10:36:06.327003 |
+|    3 | The Art of Mathematics                 | 2026-11-23 10:36:06.327003 |
+|    4 | SOA Podcasts - Society of Actuaries    | 2026-11-23 10:36:06.327003 |
+|    5 | Million Dollar Problems of Mathematics | 2026-11-23 10:36:06.327003 |
+|    6 | Opinionated History of Mathematics     | 2026-11-23 10:36:06.327003 |
+|    7 | Breaking Math Podcast                  | 2026-11-23 10:36:06.327003 |
+|    8 | Casual Inference                       | 2026-11-23 10:36:06.327003 |
+|    9 | Ten Minute Math                        | 2026-11-23 10:36:06.327003 |
+|   10 | My Favorite Theorem                    | 2026-11-23 10:36:06.327003 |
