@@ -8,13 +8,13 @@ knitr::kable(head(podcasts, 10))
 
 | rank | podcast                             | date                       |
 |-----:|:------------------------------------|:---------------------------|
-|    1 | The Art of Mathematics              | 2026-11-27 10:44:43.249497 |
-|    2 | SOA Podcasts - Society of Actuaries | 2026-11-27 10:44:43.249497 |
-|    3 | Carry the Two                       | 2026-11-27 10:44:43.249497 |
-|    4 | Deep Papers                         | 2026-11-27 10:44:43.249497 |
-|    5 | Opinionated History of Mathematics  | 2026-11-27 10:44:43.249497 |
-|    6 | My Favorite Theorem                 | 2026-11-27 10:44:43.249497 |
-|    7 | Casual Inference                    | 2026-11-27 10:44:43.249497 |
-|    8 | Math Deep Dive                      | 2026-11-27 10:44:43.249497 |
-|    9 | The Logic of Risk                   | 2026-11-27 10:44:43.249497 |
-|   10 | In the Interim…                     | 2026-11-27 10:44:43.249497 |
+|    1 | The Art of Mathematics              | 2026-11-28 10:06:43.949564 |
+|    2 | Deep Papers                         | 2026-11-28 10:06:43.949564 |
+|    3 | SOA Podcasts - Society of Actuaries | 2026-11-28 10:06:43.949564 |
+|    4 | Opinionated History of Mathematics  | 2026-11-28 10:06:43.949564 |
+|    5 | Carry the Two                       | 2026-11-28 10:06:43.949564 |
+|    6 | In the Interim…                     | 2026-11-28 10:06:43.949564 |
+|    7 | Math Deep Dive                      | 2026-11-28 10:06:43.949564 |
+|    8 | Breaking Math Podcast               | 2026-11-28 10:06:43.949564 |
+|    9 | My Favorite Theorem                 | 2026-11-28 10:06:43.949564 |
+|   10 | Casual Inference                    | 2026-11-28 10:06:43.949564 |
